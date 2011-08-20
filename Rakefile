@@ -22,8 +22,8 @@ task :default => ["test"]
 spec = Gem::Specification.new do |s|
 
   # Change these as appropriate
-  s.name              = "secondhand"
-  s.version           = "0.1.0"
+  s.name              = "lucidimagination-secondhand"
+  s.version           = "0.1.1"
   s.summary           = "Secondhand is a ruby-friendly wrapper around the Quartz Job Scheduler. Create jobs, tell Secondhand when they should run, then sit back and enjoy."
   s.author            = "Don Morrison"
   s.email             = "elskwid@gmail.com"
