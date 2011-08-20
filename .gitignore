@@ -6,3 +6,4 @@ tmp
 .redcar
 .DS_Store
 rdoc
+*.gem
