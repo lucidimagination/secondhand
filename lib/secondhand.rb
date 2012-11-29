@@ -1,9 +1,9 @@
 require 'java'
 
-require 'quartz/log4j-1.2.14.jar'
+require 'quartz/log4j-1.2.16.jar'
 require 'quartz/quartz-1.8.4.jar'
-require 'quartz/slf4j-api-1.6.0.jar'
-require 'quartz/slf4j-log4j12-1.6.0.jar'
+require 'quartz/slf4j-api-1.6.4.jar'
+require 'quartz/slf4j-log4j12-1.6.4.jar'
 
 require 'secondhand/logging'
 require 'secondhand/job'
